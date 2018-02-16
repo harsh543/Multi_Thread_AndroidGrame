@@ -5,4 +5,4 @@ Each thread uses different strategy to guess the number
 This how the app works
 
 
-![Video Walkthrough](CS 478_Proj4.gif)
+![Video Walkthrough](CS_478_Proj4.gif)
